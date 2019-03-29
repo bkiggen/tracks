@@ -9,7 +9,10 @@
 
 .form-control {
   background-color: lightblue;
+  height: 75px;
 }
+
+
 
 #story {
   background-color: maroon;
@@ -22,7 +25,6 @@
 }
 
 .submit-button {
-  /* background-image: url('../Baker2.jpg'); */
   width: 500px;
   height: 100px;
   font-size: 50px;
@@ -31,19 +33,17 @@
   border: 2px solid black;
   border-radius: 10%;
 
-  #submit {
-  width: 100%;
-  text-align: center;
-  padding-bottom: 30px;
-}
-
-
-
   h2 {
   font-size: 35px;
   font-weight: 400;
   color: blue;
   font-family: fantasy;
+}
+
+#submit {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 30px;
 }
 
 @media screen and (max-width: 768px) {
