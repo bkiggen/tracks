@@ -1,0 +1,45 @@
+#story {
+  display: none;
+}
+
+.form-group {
+  font-size: 20px;
+  font-style: oblique;
+}
+
+.form-control {
+  background-color: lightblue;
+}
+
+#story {
+  background-color: maroon;
+  font-size: 20px;
+  font-style: oblique;
+  color: white;
+  border: 10px solid orange ;
+  margin: 20px;
+  padding: 20px;
+}
+
+.submit-button {
+  /* background-image: url('../Baker2.jpg'); */
+  width: 500px;
+  height: 100px;
+  font-size: 50px;
+  font-weight: bolder;
+  color: blue;
+  border: 2px solid black;
+  border-radius: 10%;
+
+
+    h2 {
+  font-size: 35px;
+  font-weight: 400;
+  color: blue;
+  font-family: fantasy;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+    }
+}
